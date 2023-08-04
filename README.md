@@ -14,8 +14,6 @@ Power Manager is a program designed to work with Tapo P110 plugs. It is used to 
 
 I have uploaded python source code into this repo. You can download it, install all dependecnies and then run it on your OS. I know that it is running without any problems on Windows. I haven't tested it on Mac and Linux devices.
 
-If you are a Windows user and want more convienent way to install a program, just download a zip file and extract a folder into a drive. Then you can run an exe file.
-
 # How to use?
 
 Before using "Run active control" option, navigate into the directory where the program is located and fill in your login, password (your tp link account data) and ip of your plug into credentials.json file.
