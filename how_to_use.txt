@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------
+HOW TO USE?
+
+Before using "Run active control" option, navigate into the directory where the program is located and fill in your login, password (your tp link account data) and ip of your plug into credentials.json file.
+
+Run active control - checks the battery status every 2 minutes. If the battery condition is equal to or less than 30% , charging is started. If the battery condition is equal to or greater than 80% , charging is stopped.
+
+Stop active control - active control is stopped. Battery charging is also stopped.
+
+Run power level indicator - this mode is designed for situations when we do not have a p110 smart socket with us. In this mode, the battery status is monitored every 5 minutes. The user is notified when the battery status is equal to or less than 30% and when the battery status is equal to or greater than 80%.
+
+Stop power level indicator - power level indicator is stopped.
+
+Start charging - charging is initiated.
+
+Stop charging - charging is interrupted.
+
+How to use? - shows this manual again.
+------------------------------------------------------------------------------------------
