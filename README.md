@@ -12,8 +12,11 @@ Power Manager is a program designed to work with Tapo P110 plugs. It is used to 
 
 # Installation
 
-I have uploaded python source code into this repo. You can download it, install all dependencies and then run it on your OS. You can install all dependencies from a file requirements.txt (pip install -r requirements.txt
-). I know that it is running without any problems on Windows. I haven't tested it on Mac and Linux devices.
+I have uploaded python source code into this repo. You can download it, install all dependencies and then run it on your OS. I know that it is running without any problems on Windows. I haven't tested it on Mac and Linux devices.
+
+If you are a Windows user you can download a zip file with folder containing an exe file. Extract a folder to your drive and then run powerManager.exe to start a program.
+
+Remember to fill in your credentials before first use as mentioned below in "How to use?" section.
 
 # How to use?
 
